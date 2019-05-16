@@ -2,7 +2,7 @@
 Trang web bán quần áo - BTL năm 3
 #shopping-cart : https://github.com/darryldecode/laravelshoppingcart
 #Laravel 5.7
-#Drive : https://drive.google.com/open?id=1K09sIgsqenWLlu55UFe_n28clrqCCLba
+
 
 Hướng dẫn cài đặt :
 1. Chuẩn bị
@@ -29,8 +29,8 @@ SAU KHI CÀI ĐẶT XONG LARAVEL:
  1. Tải file db_shop.sql về và import nó vào phpMyAdmin( nhớ tạo 1 database tên db_shop và import vào db đó).
  2. Vào link drive bên trên shopteam13.zar sau đó giải nén và copy vào thư mục C:\xampp\htdocs.
  3. Vào cmd của của C:\xampp\htdocs gõ: cd shopteam13. Sau đó gõ : composer install. 
- 4. Chạy xong bạn vào web truy cập : http://localhost/shopteam13/public/  nếu hiện nguyên hình thì đó là trang giao diện người sử dụng.
- Vào trang http://localhost/shopteam13/public/admin/login để truy cập trang của admin. 
+ 4. Chạy xong bạn vào web truy cập : http://localhost/shopteam5/public/  nếu hiện nguyên hình thì đó là trang giao diện người sử dụng.
+ Vào trang http://localhost/shopteam5/public/admin/login để truy cập trang của admin. 
  
  Nếu chưa được nữa thì liên hệ mình.
 
