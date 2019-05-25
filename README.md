@@ -28,7 +28,7 @@ From <https://giaphiep.com/blog/huong-dan-cai-dat-laravel-53-tren-window-1473475
 SAU KHI CÀI ĐẶT XONG LARAVEL: 
  1. Tải file db_shop.sql về và import nó vào phpMyAdmin( nhớ tạo 1 database tên db_shop và import vào db đó).
  2. Vào link drive bên trên shopteam13.zar sau đó giải nén và copy vào thư mục C:\xampp\htdocs.
- 3. Vào cmd của của C:\xampp\htdocs gõ: cd shopteam13. Sau đó gõ : composer install. 
+ 3. Vào cmd của của C:\xampp\htdocs gõ: cd shopteam5. Sau đó gõ : composer install. 
  4. Chạy xong bạn vào web truy cập : http://localhost/shopteam5/public/  nếu hiện nguyên hình thì đó là trang giao diện người sử dụng.
  Vào trang http://localhost/shopteam5/public/admin/login để truy cập trang của admin. 
  
