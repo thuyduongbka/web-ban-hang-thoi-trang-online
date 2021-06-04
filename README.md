@@ -32,6 +32,6 @@ SAU KHI CÀI ĐẶT XONG LARAVEL:
  4. Chạy xong bạn vào web truy cập : http://localhost/shopteam5/public/  nếu hiện nguyên hình thì đó là trang giao diện người sử dụng.
  Vào trang http://localhost/shopteam5/public/admin/login để truy cập trang của admin. 
  
- Nếu chưa được nữa thì liên hệ mình.
+ Nếu chưa được nữa thì chắc quá lâu r :v
 
 
